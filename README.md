@@ -1,3 +1,3 @@
 # Hacktoberfest2021-JavaScript
 
-Repo for Hacktoberfest (JavaScript)
+Repository for Hacktoberfest (JavaScript) 2021.
